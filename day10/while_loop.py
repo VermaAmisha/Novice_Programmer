@@ -1,3 +1,4 @@
+# A while loop program
 # while loop
 i = 1
 while i <= 10:
